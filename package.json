@@ -16,5 +16,8 @@
     "url": "https://github.com/Sanjuroxx/practicenjs/issues"
   },
   "homepage": "https://github.com/Sanjuroxx/practicenjs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
